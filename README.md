@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" src="[C:\Users\chand\Downloads\image.gif](https://www.google.com/imgres?q=animated%20coding%20gif%20for%20github&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FHarsh-Singh-Rajput%2FHarsh-Singh-Rajput%2Fmaster%2Fanimated.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FHarsh-Singh-Rajput%2FHarsh-Singh-Rajput&docid=klS56PrgahO6TM&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwjHtbPKl8uJAxWuxDgGHedIPSQQM3oECDkQAA..i&w=800&h=600&hcb=2&itg=1&ved=2ahUKEwjHtbPKl8uJAxWuxDgGHedIPSQQM3oECDkQAA)">
+ <img align="right" alt="Coding" width="400" src="./image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar2004&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar2004" /> </p>
 
