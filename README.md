@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="right" alt="Coding" width="400" src="./image.gif">
+ <img align="right" alt="Coding" width="400" src="Users\chand\Downloads\image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar2004&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar2004" /> </p>
 
