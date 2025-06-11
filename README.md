@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **amazone Clone**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working on **Bank Management System(Project)**
 
 - 💬 Ask me about **Android**
 
