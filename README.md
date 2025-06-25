@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bank Management System(Project)**
 
-- 🌱 I’m currently working on **Bank Management System(Project)**
+- 🌱 I’m currently learning on React and Spring_tool
 
 - 💬 Ask me about **Android**
 
