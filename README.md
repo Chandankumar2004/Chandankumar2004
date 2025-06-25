@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ckumar200" target="blank"><img src="https://img.shields.io/twitter/follow/@ckumar200?logo=twitter&style=for-the-badge" alt="@ckumar200" /></a> </p>
 
-- 🔭 I’m currently working on **amazone Clone**
+- 🔭 I’m currently working on **Bank Management System(Project)**
 
 - 🌱 I’m currently working on **Bank Management System(Project)**
 
