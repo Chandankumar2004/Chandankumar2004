@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chandan kumar</h1>
 <h3 align="center">A passionate 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 from India</h3>
- <img align="right" alt="Coding" width="400" src="C:\Users\chand\Downloads\image.gif">
+ <img align="right" alt="Coding" width="400" src="https://github.com/Chandankumar2004/Chandankumar2004/blob/023f5a0667182f5b8a3d3ebc97273d0e9736ca97/image.gif">
 💫 About Me:
 <hr>
 🔭 I’m currently working on a scalable Bank Management System and personal React projects.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on web and AI-based apps that create social impact.<br><br>🤝 I’m looking for help with backend development and cloud deployment skills.<br><br>🌱 I’m currently learning TypeScript, advanced React, and cloud computing basics.<br><br>💬 Ask me about web apps, React.js, APIs, and deploying projects.<br><br>⚡ Fun fact I built a no-code AI-powered job portal with GPT-4!
