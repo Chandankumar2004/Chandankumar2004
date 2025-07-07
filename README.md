@@ -1,5 +1,8 @@
-
+<img src="https://github.com/Chandankumar2004/Chandankumar2004/blob/02574351c075bd33bab472d71985fb35fee7df72/cover%20pic.jpg" 
+         width="1020" height="300" 
+      ">
 <h1 align="center">Hi 👋, I'm Chandan kumar</h1>
+
 <h3 align="center">A passionate 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 from India</h3>
 💫 About Me:
 <hr>
